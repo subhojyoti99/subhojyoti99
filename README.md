@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhojyoti99&label=Profile%20views&color=0e75b6&style=flat" alt="subhojyoti99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhojyoti99" alt="subhojyoti99" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/s_subhojyoti" target="blank"><img src="https://img.shields.io/twitter/follow/s_subhojyoti?logo=twitter&style=for-the-badge" alt="s_subhojyoti" /></a> </p>
-
 - 🌱 I’m currently learning **Firebase, Wordpress**
 
 - 🤝 I’m looking for help with **E commercial websites**
