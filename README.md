@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhojyoti99&label=Profile%20views&color=0e75b6&style=flat" alt="subhojyoti99" /> </p>
 
-- 🌱 I’m currently learning **Firebase, Wordpress**
+- 🌱 I’m currently learning **Go-gin & sqlite**
 
-- 🤝 I’m looking for help with **E commercial websites**
+- 🤝 I’m looking for help with **Golang with gin framework**
 
-- 💬 Ask me about **c/js/java/css**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **subhajyotisingha@gmail.com**
 
